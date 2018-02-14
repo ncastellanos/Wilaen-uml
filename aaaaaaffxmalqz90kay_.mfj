@@ -1,0 +1,10 @@
+{
+	"_type": "UMLDeploymentDiagram",
+	"_id": "AAAAAAFFxmALQz90KAY=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl8NcT9gE1g="
+	},
+	"name": "Physical View",
+	"visible": true,
+	"defaultDiagram": false
+}

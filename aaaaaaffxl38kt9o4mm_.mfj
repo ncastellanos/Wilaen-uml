@@ -1,0 +1,9 @@
+{
+	"_type": "UMLModel",
+	"_id": "AAAAAAFFxl38KT9O4MM=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl2a6D9NCaE="
+	},
+	"name": "Scenarios",
+	"visibility": "public"
+}

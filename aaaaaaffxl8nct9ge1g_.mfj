@@ -1,0 +1,9 @@
+{
+	"_type": "UMLModel",
+	"_id": "AAAAAAFFxl8NcT9gE1g=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl2a6D9NCaE="
+	},
+	"name": "Physical View",
+	"visibility": "public"
+}

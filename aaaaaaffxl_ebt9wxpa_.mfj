@@ -1,0 +1,10 @@
+{
+	"_type": "UMLComponentDiagram",
+	"_id": "AAAAAAFFxl/eBT9wXPA=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl7i2j9c8Us="
+	},
+	"name": "Process View",
+	"visible": true,
+	"defaultDiagram": false
+}

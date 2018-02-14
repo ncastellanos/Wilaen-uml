@@ -1,0 +1,10 @@
+{
+	"_type": "UMLUseCaseDiagram",
+	"_id": "AAAAAAFFxl9JTz9kpKI=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl38KT9O4MM="
+	},
+	"name": "Scenarios",
+	"visible": true,
+	"defaultDiagram": false
+}

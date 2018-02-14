@@ -1,0 +1,10 @@
+{
+	"_type": "UMLComponentDiagram",
+	"_id": "AAAAAAFFxl+07j9sxXU=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl6vKz9YEJg="
+	},
+	"name": "Development View",
+	"visible": true,
+	"defaultDiagram": false
+}

@@ -1,0 +1,10 @@
+{
+	"_type": "UMLClassDiagram",
+	"_id": "AAAAAAFFxl9rHz9obNs=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl6EZT9Ufwg="
+	},
+	"name": "Logical View",
+	"visible": true,
+	"defaultDiagram": true
+}

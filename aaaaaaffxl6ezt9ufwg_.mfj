@@ -1,0 +1,9 @@
+{
+	"_type": "UMLModel",
+	"_id": "AAAAAAFFxl6EZT9Ufwg=",
+	"_parent": {
+		"$ref": "AAAAAAFFxl2a6D9NCaE="
+	},
+	"name": "Logical View",
+	"visibility": "public"
+}
